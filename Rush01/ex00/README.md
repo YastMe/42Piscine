@@ -1,0 +1,2 @@
+## C PISCINE RUSH01
+**Score: 0/100**
