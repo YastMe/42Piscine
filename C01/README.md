@@ -1,2 +1,2 @@
-# C PISCINE 01
-## Score: 100/100
+# C PISCINE C01
+**Score: 100/100**
