@@ -1,2 +1,2 @@
 # C PISCINE C02
-## Score: 55/100
+**Score: 55/100**
